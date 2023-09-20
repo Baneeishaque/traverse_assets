@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/async" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/cli" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/collection" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/convert" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/core" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/developer" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/ffi" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/html" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/indexed_db" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/io" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/isolate" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/js" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/js_interop" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/js_interop_unsafe" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/js_util" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/math" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/mirrors" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/svg" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/typed_data" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/web_audio" />
+      <root url="file://$USER_HOME$/scoop/apps/dart-dev/current/lib/web_gl" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
